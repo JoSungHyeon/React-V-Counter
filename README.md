@@ -1,6 +1,4 @@
-# React + Vite
-
-React + Vite Counter App
+# React + Vite Counter App
 
 부모와 자식관계에서만 props 전달 가능
 자식이 부모에게 props 전달 불가능
