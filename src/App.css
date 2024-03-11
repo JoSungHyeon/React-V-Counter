@@ -2,6 +2,11 @@ body {
   padding: 20px;
 }
 
+.App {
+  margin: 0 auto;
+  width: 400px;
+}
+
 .App > section {
   background-color: rgb(245, 245, 245);
   border: 1px solid rgba(240, 240, 240);
